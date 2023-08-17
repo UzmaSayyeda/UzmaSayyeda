@@ -1,5 +1,5 @@
 ## Hey there!
-![200w](https://github.com/UzmaSayyeda/UzmaSayyeda/assets/136635992/e097325c-9864-4b23-8ed7-c8387714cd06)
+![200w](200w.gif)
 
 ### My name is Uzma Sayyeda!
 I am currently a student at SMU data science boot camp.
