@@ -1,18 +1,24 @@
-### Hey good looking 👋
+## Hey there!
+![200w](https://github.com/UzmaSayyeda/UzmaSayyeda/assets/136635992/e097325c-9864-4b23-8ed7-c8387714cd06)
 
-My name is Uzma Sayyeda!
+### My name is Uzma Sayyeda!
 I am currently a student at SMU data science boot camp.
 I'm a pharmacy technician and completed my undergrad in Applied Nutrition in Public Health.
-I enjoy connecting with people, you can reach me here:<br>
-[![Linkedin Badge](https://img.shields.io/badge/-uzmasayyeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/uzma-sayyeda)](https://www.linkedin.com/in/uzma-sayyeda/)
+I enjoy connecting with people, you can reach me here:  
 
-Technologies:<br>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+[![Linkedin Badge](https://img.shields.io/badge/-uzmasayyeda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/uzma-sayyeda)](https://www.linkedin.com/in/uzma-sayyeda/)
+
+### Technologies:<br>
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=postgresql)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=git)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=github)](https://github.com/harish-sethuraman/readme-components)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
+
+
+#### [Credits](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)
