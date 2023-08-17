@@ -12,7 +12,7 @@ Technologies:<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
-Logo and langauge stats credits:
-[Ani Emmadi](https://github.com/aemmadi)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
