@@ -1,7 +1,14 @@
-## Hey there!
-![200w](200w.gif)
+<h1 align="center">Hey there! 👋 </h1>  
+<div style="text-align: center;">
 
-### My name is Uzma Sayyeda!
+<p align="center">
+<img src="https://media.giphy.com/media/KCRbidWxXc610MM5oU/giphy.gif" width="300" height="300" border="10"/>
+</p>
+
+
+<h2 align="center">My name is Uzma Sayyeda</h2>  
+<div style="text-align: center;">
+
 I am currently a student at SMU data science boot camp.
 I'm a pharmacy technician and completed my undergrad in Applied Nutrition in Public Health.
 I enjoy connecting with people, you can reach me here:  
