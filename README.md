@@ -17,13 +17,14 @@ I enjoy connecting with people, you can reach me here:
 
 ### Technologies:<br>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=python)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=postgresql)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=git)](https://github.com/harish-sethuraman/readme-components)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)  
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=github)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=visualstudiocode)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=gray-subtle&logo=DBeaver)](https://github.com/harish-sethuraman/readme-components)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![visual-studio-code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visual-studio-code)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
