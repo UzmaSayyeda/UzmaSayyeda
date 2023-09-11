@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 </h1>  
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/KCRbidWxXc610MM5oU/giphy.gif" width="40" border="10"/> </h1>  
 <div style="text-align: center;">
 
 <p align="center">
