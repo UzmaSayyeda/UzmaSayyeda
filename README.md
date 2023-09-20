@@ -15,10 +15,11 @@ I am a confident and motivated data science student at SMU. I have a background 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) 
- 
+
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-BFAB99?style=flat-square&logo=DBeaver)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
