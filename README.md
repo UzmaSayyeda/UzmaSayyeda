@@ -8,18 +8,18 @@
 I am a confident and motivated data science student at SMU. I have a background in pharmacy technology and public health, which gives me a unique perspective on the intersection of data and healthcare. I am a highly skilled communicator and I enjoy connecting with people. Connect with me here:
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-uzmasayyeda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/uzma-sayyeda)](https://www.linkedin.com/in/uzma-sayyeda/) 
+[![Linkedin Badge](/icons/linkedin.png)](https://www.linkedin.com/in/uzma-sayyeda/) 
+[![portfolio](/icons/portfolio.png)](https://uzmasayyeda.github.io/portfolio_project/) 
 
 ## Technologies:<be>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) 
-
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![DBeaver](https://img.shields.io/badge/-DBeaver-BFAB99?style=flat-square&logo=DBeaver)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
+![Python](/icons/python.png)
+![Postgresql](/icons/postgres.png)
+![Gitlab](/icons/gitlab.png)
+![Git](/icons/git.png)
+![css](/icons/css.png)
+![html](/icons/html.png)
+![mongodb](/icons/mongodb.png)
+![vscode](/icons/vscode.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
@@ -27,6 +27,7 @@ I am a confident and motivated data science student at SMU. I have a background 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
 
 
-#### [Credits](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)
-
+#### Credits 
+[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)  
+[Icons]("https://icons8.com/icon/)
 
