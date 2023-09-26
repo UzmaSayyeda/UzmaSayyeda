@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hey there! <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJmcmRhMDc3aGF2OGVzNTV5Y2d2ZTl6NjUyYXR1aGc3dW1tYmswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="60"/> 
-</h1>  
+<p align = "center">
+  <h1 align = "center">Hey there<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJmcmRhMDc3aGF2OGVzNTV5Y2d2ZTl6NjUyYXR1aGc3dW1tYmswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JvxG1YZ5BcSy1GU0DN/giphy.gif" width=60 /></h1> 
+</p>
 
 
 <p align="center">
@@ -13,7 +13,7 @@ I am a confident and motivated data science student at SMU. I have a background 
 [![Linkedin Badge](/icons/linkedin.png)](https://www.linkedin.com/in/uzma-sayyeda/) 
 [![portfolio](/icons/portfolio.png)](https://uzmasayyeda.github.io/portfolio_project/) 
 
-## Technologies:<be>
+## Technologies:
 ![Python](/icons/python.png)
 ![Postgresql](/icons/postgres.png)
 ![Gitlab](/icons/gitlab.png)
@@ -30,6 +30,5 @@ I am a confident and motivated data science student at SMU. I have a background 
 
 
 #### Credits 
-[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)  
-[Icons](https://icons8.com/icon/)
+[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)
 
