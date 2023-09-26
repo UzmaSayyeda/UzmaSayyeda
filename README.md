@@ -1,12 +1,12 @@
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="60" /> </h1>  
+<h1 align="center">Hey there!<img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="60" /> </h1>  
 <div style="text-align: center;">
 
 <p align="center">
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXAzbXBqcTh3cDM1dzA5MG84cDF4dXd6aHpodmN1ejFocmE1dzZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xQMQmo9vCHaL6fp5ms/giphy.gif" />
 </p>
-<p align="center">
+
 I am a confident and motivated data science student at SMU. I have a background in pharmacy technology and public health, which gives me a unique perspective on the intersection of data and healthcare. I am a highly skilled communicator and I enjoy connecting with people. Connect with me here:
-</p>
+
 
 [![Linkedin Badge](/icons/linkedin.png)](https://www.linkedin.com/in/uzma-sayyeda/) 
 [![portfolio](/icons/portfolio.png)](https://uzmasayyeda.github.io/portfolio_project/) 
