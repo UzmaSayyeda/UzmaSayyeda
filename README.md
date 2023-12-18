@@ -5,21 +5,28 @@
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXAzbXBqcTh3cDM1dzA5MG84cDF4dXd6aHpodmN1ejFocmE1dzZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xQMQmo9vCHaL6fp5ms/giphy.gif" />
 </p>
 
-I am a confident and motivated data science student at SMU. I have a background in pharmacy technology and public health, which gives me a unique perspective on the intersection of data and healthcare. I am a highly skilled communicator and I enjoy connecting with people. Connect with me here:
+Data Analyst with Pharmacy Technician background and expertise in Applied Nutrition and Clinical Dietetics, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people. Connect with me here:
 
 
 [![Linkedin Badge](/icons/linkedin.png)](https://www.linkedin.com/in/uzma-sayyeda/) 
 [![portfolio](/icons/portfolio.png)](https://uzmasayyeda.github.io/portfolio_project/) 
 
 ## Technologies:<be>
+![Excel](/icons/excel.png)
 ![Python](/icons/python.png)
 ![Postgresql](/icons/postgres.png)
 ![Gitlab](/icons/gitlab.png)
 ![Git](/icons/git.png)
 ![css](/icons/css.png)
 ![html](/icons/html.png)
+![JavaScript](/icons/js.png)
 ![mongodb](/icons/mongodb.png)
 ![vscode](/icons/vscode.png)
+![Tableau](/icons/tableau.png)
+![Power Bi](/icons/power-bi-2021-48.png)
+![Tensorflow](/icons/tensorflow.png)
+![AWS](/icons/amazon-web-services.png)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
@@ -29,5 +36,5 @@ I am a confident and motivated data science student at SMU. I have a background 
 
 #### Credits 
 [GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)  
-[Icons]("https://icons8.com/icon/)
+[Icons](https://icons8.com/icon/)
 
