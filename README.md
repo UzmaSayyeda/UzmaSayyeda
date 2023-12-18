@@ -20,8 +20,6 @@ Data Analyst with Pharmacy Technician background and expertise in Applied Nutrit
 
 </h6>
 
-<a align = "center">
-
 ## Technologies:<be>
 ![Excel](/icons/excel.png)
 ![Python](/icons/python.png)
@@ -38,13 +36,11 @@ Data Analyst with Pharmacy Technician background and expertise in Applied Nutrit
 ![Tensorflow](/icons/tensorflow.png)
 ![AWS](/icons/amazon-web-services.png)
 
-</a>
 
-<a align = "center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
-</a>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
 
@@ -52,9 +48,12 @@ Data Analyst with Pharmacy Technician background and expertise in Applied Nutrit
 
 
 <h5 align="center">
-Credits 
+Credits
 
-[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)    
+<br>
+
+[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)   
+<br>
 [Icons](https://icons8.com/icon/)
 
 
