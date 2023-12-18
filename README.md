@@ -40,9 +40,11 @@ Data Analyst with Pharmacy Technician background and expertise in Applied Nutrit
 
 </a>
 
+<a align = "center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
+</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
 
