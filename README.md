@@ -7,11 +7,20 @@
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXAzbXBqcTh3cDM1dzA5MG84cDF4dXd6aHpodmN1ejFocmE1dzZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xQMQmo9vCHaL6fp5ms/giphy.gif" />
 </p>
 
+<h6 align="center">
+
 Data Analyst with Pharmacy Technician background and expertise in Applied Nutrition and Clinical Dietetics, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people. Connect with me here:
 
+<a align = "center"> 
 
 [![Linkedin Badge](/icons/linkedin.png)](https://www.linkedin.com/in/uzma-sayyeda/) 
 [![portfolio](/icons/portfolio.png)](https://uzmasayyeda.github.io/portfolio_project/) 
+
+</a>
+
+</h6>
+
+<a align = "center">
 
 ## Technologies:<be>
 ![Excel](/icons/excel.png)
@@ -30,13 +39,20 @@ Data Analyst with Pharmacy Technician background and expertise in Applied Nutrit
 ![AWS](/icons/amazon-web-services.png)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSayyeda&hide_progress=true)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UzmaSayyeda.UzmaSayyeda)
 
+</a>
 
-#### Credits 
-[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)  
+
+<h5 align="center">
+Credits 
+
+[GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs-)    
 [Icons](https://icons8.com/icon/)
 
+
+</h5>
